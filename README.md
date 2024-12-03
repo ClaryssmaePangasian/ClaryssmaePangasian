@@ -9,7 +9,7 @@ I'm Claryss Mae Pangasian, a 19-year-old Bachelor of Computer Science student. W
 ## Certification
 [My Cognitive Class SQL and Relational Databases Certificate](https://courses.cognitiveclass.ai/certificates/c2de6a5a243143c1b9620d81742f8608#)
 
-[My Oracle University Become An OCI Foundations Associate (2024) Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=CF4D9C64267D1242F295EA5A67F9CC8EDFA6CEDE4D5CAA26A123E84424E4E87F).</br>
+[My Oracle University Become An OCI Foundations Associate (2024) Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=CF4D9C64267D1242F295EA5A67F9CC8EDFA6CEDE4D5CAA26A123E84424E4E87F).
 
 ## Skillset
 Java, SQL
