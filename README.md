@@ -11,6 +11,8 @@ I'm Claryss Mae Pangasian, a 19-year-old Bachelor of Computer Science student. W
 
 [My Oracle University Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=CF4D9C64267D1242F295EA5A67F9CC8EDFA6CEDE4D5CAA26A123E84424E4E87F).
 
+[My Oracle University  Become an Oracle Cloud Data Management Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=CF4D9C64267D1242F295EA5A67F9CC8E963C62CA28A11B293DF9DEC5DE520EE9).
+
 ## Skillset
 Java, SQL
 
